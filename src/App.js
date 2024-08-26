@@ -7,5 +7,4 @@ const App = () => {
     /div>
   )
 }
-//  const [userList, getuserlIst] = useState([])
 export default App
